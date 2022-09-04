@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="calculator.app/Contents/MacOS/calculator">
+      <BCSymbolMapName>calculator.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>calculator.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>calculator.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/fedorturkin/Projects/calculator/calculator</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
